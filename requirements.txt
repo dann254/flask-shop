@@ -1,0 +1,10 @@
+this project used ...  python 2.7
+
+
+remove flask-shop/env
+
+cd flask-shop
+run   virtualenv env
+      env/bin/pip install flask
+      env/bin/pip install flask-sqlalchemy
+      env/bin/pip install flask-wtf
